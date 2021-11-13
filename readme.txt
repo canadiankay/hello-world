@@ -1,2 +1,5 @@
-hello
-this is the git-it activities
+Hello world!
+this is git it activities 
+
+
+trying this again......
